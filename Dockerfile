@@ -8,3 +8,4 @@ RUN apt-get install -y gcc-6
 RUN apt-get install -y gfortran-6
 RUN apt-get install -y gnat-6
 RUN apt-get clean
+RUN rm -rf /var/lib/apt/lists/*
