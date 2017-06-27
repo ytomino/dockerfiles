@@ -1,4 +1,4 @@
-FROM debian:experimental
+FROM debian:testing-slim
 
 MAINTAINER ytomino
 
