@@ -1,4 +1,4 @@
-FROM debian:unstable
+FROM debian:testing-slim
 
 MAINTAINER ytomino
 
